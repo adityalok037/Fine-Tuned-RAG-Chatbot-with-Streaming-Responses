@@ -1,3 +1,11 @@
+## GITHUB --- 
+https://github.com/adityalok037/Fine-Tuned-RAG-Chatbot-with-Streaming-Responses
+
+## Screenshot of the projects -- 
+https://github.com/adityalok037/Fine-Tuned-RAG-Chatbot-with-Streaming-Responses/tree/main/Screenshots
+
+
+
 # RAG Chatbot using Gemini 1.5 Flash
 An intelligent chatbot that answers user queries based on a custom document set (like Terms & Conditions, Policies, Legal Docs). It uses a Retrieval-Augmented Generation (RAG) pipeline and Google's Gemini 1.5 Flash model via API for real-time, grounded, and factual responses.
 
